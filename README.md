@@ -78,8 +78,8 @@ The system consists of:
 ## Demo Results
 
 <p align="center">
-  <img src="docs/images/hallway.jpg" width="45%"/>
-  <img src="docs/images/visualization.png" width="45%"/>
+  <img src="images/hallway.jpg" width="45%"/>
+  <img src="images/visualization.png" width="45%"/>
 </p>
 
 <p align="center">
