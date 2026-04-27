@@ -9,6 +9,14 @@ The physical platform was implemented using a custom-built vehicle (LEGO-based c
 
 ---
 
+## Full Documentation
+
+For detailed system design, hardware setup, and implementation details, see the full report:
+
+📄 [Project Report (PDF)](docs/tof-spatial-mapping-documentation.pdf)
+
+---
+
 ## System Architecture
 
 The system consists of:
