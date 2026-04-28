@@ -65,7 +65,7 @@ typedef unsigned char uint8_t;
  */
 typedef signed char int8_t;
 
-/** @}  */
+
 #endif /* _STDINT_H */
 
 typedef uint32_t FixPoint1616_t;

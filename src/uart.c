@@ -1,4 +1,3 @@
-
 #include "uart.h"
 #include "tm4c1294ncpdt.h"
 #include <stdint.h>
