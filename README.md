@@ -3,7 +3,7 @@
 ## Overview
 This project is an embedded spatial mapping system that uses a Time-of-Flight (ToF) sensor to generate a 3D representation of the surrounding environment.
 
-The system integrates a microcontroller, stepper motors, and a ToF sensor to perform automated scanning. Distance measurements are collected in real time, transmitted to a PC via UART, and processed using Python to generate a 3D point cloud visualization.
+The system integrates a microcontroller, stepper motors, and a ToF sensor to perform automated scanning. Distance measurements are collected in real time using embedded C with register-level control, transmitted to a PC via UART, and processed using Python to generate a 3D point cloud visualization.
 
 The physical platform was implemented using a custom LEGO-based vehicle with motorized scanning and forward motion.
 
@@ -83,3 +83,32 @@ For detailed system design, hardware setup, and implementation details:
 <p align="center">
   Real Environment vs Generated 3D Map
 </p>
+
+---
+
+## References & Resources
+
+### Textbook
+- Embedded Systems: Introduction to ARM Cortex-M Microcontrollers (Valvano, 5th Edition)
+
+---
+
+### Microcontroller Documentation (MSP432E401Y)  
+- MSP432E4 SimpleLink Technical Reference Manual  
+- MSP432E401Y Datasheet  
+- MSP432E401Y User’s Guide  
+- ARM Cortex-M3/M4F Instruction Set Manual  
+
+---
+
+### Sensor (VL53L1X Time-of-Flight)  
+- VL53L1X Datasheet  
+- VL53L1X API User Manual (UM2356)  
+- VL53L1X Driver Documentation  
+
+---
+
+### Motor & Driver Components  
+- VMA401 Stepper Motor Datasheet & User Manual  
+- ULN2003 Driver Board Datasheet  
+
