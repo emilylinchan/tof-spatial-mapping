@@ -63,11 +63,12 @@ For detailed system design, hardware setup, and implementation details:
 ## Hardware Platform
 
 <p align="center">
-  <img src="docs/images/vehicle-sideview.jpeg" width="50%"/>
+  <img src="docs/images/vehicle-sideview.jpeg" width="45%"/>
+  <img src="docs/images/vehicle-frontview.jpeg" width="45%"/>
 </p>
 
 <p align="center">
-  LEGO-based scanning platform
+  Custom LEGO-based vehicle
 </p>
 
 ---
