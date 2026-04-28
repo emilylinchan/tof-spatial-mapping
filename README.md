@@ -28,17 +28,6 @@ For detailed system design, hardware setup, and implementation details:
 
 ---
 
-## Key Features
-
-- 360° scanning using a motorized ToF sensor  
-- Interrupt-driven data acquisition  
-- I2C communication with sensor (100 kHz)  
-- UART communication at 115200 bps  
-- Real-time data parsing using PySerial  
-- 3D point cloud generation using NumPy and Open3D  
-
----
-
 ## Hardware
 
 - MSP432E401Y Microcontroller  
