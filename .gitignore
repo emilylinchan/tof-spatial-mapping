@@ -1,0 +1,12 @@
+# Keil build output
+Objects/
+Listings/
+*.axf
+*.hex
+*.o
+*.d
+*.lnp
+*.htm
+
+# Keil backup files
+*.bak
